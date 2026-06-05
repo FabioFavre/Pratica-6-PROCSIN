@@ -53,7 +53,7 @@ Projeto de filtros elementares com $f_s = 20.000$ Hz.
 | **(c)** | Passa-faixas | $f_c = 7000$ Hz |
 | **(d)** | Notch | $f_c = 3000$ Hz |
 
-*Em todos os casos: Análise da função de transferência, resposta em frequência, diagrama de polos/zeros e influência do parâmetro $r$.*
+*Em todos os casos: Análise da função de transferência, resposta em frequência, diagrama de polos/zeros e influência do parâmetro r.*
 
 ---
 
@@ -165,7 +165,8 @@ jupyter notebook
       <a href="https://github.com/jeanraposojesus-hue">@jeanraposojesus-hue</a>
     </td>
     <td align="center">
-      <b>Igor Pinheiro Torres</b>
+      <b>Igor Pinheiro Torres</b><br/>
+      <a href="https://github.com/Igorprogrammerapprentice">@Igorprogrammerapprentice</a>
     </td>
     <td align="center">
       <b>Fabio Luiz Cocco Favre da Silva</b><br/>
