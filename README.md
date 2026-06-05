@@ -40,7 +40,7 @@ Esta prática explora o projeto e implementação de **Filtros Digitais IIR (Inf
 
 ### ⚙️ Questão 1 — Blocos Básicos de 2ª Ordem
 
-**Notebook:** `Questao_1.ipynb`
+**Notebook:** `Questão_1.ipynb`
 
 Projeto de filtros elementares com $f_s = 20.000$ Hz.
 
@@ -59,7 +59,7 @@ Projeto de filtros elementares com $f_s = 20.000$ Hz.
 
 ### 🧱 Questão 2 — Filtros Passa-Faixas em Cascata
 
-**Notebook:** `Questao_2.ipynb`
+**Notebook:** `Questão_2.ipynb`
 
 Projeto de um passa-faixas com $f_{c1} = 6000$ Hz e $f_{c2} = 8000$ Hz utilizando cascata de blocos de 2ª ordem.
 
@@ -69,7 +69,7 @@ Projeto de um passa-faixas com $f_{c1} = 6000$ Hz e $f_{c2} = 8000$ Hz utilizand
 
 ### 🎛️ Questão 3 — Filtros Rejeita-Faixas em Paralelo
 
-**Notebook:** `Questao_3.ipynb`
+**Notebook:** `Questão_3.ipynb`
 
 Projeto de um rejeita-faixas (band-stop) com $f_{c1} = 1000$ Hz e $f_{c2} = 4000$ Hz utilizando paralelo de blocos de 2ª ordem.
 
@@ -79,7 +79,7 @@ Projeto de um rejeita-faixas (band-stop) com $f_{c1} = 1000$ Hz e $f_{c2} = 4000
 
 ### 📉 Questão 4 — Quantização e Estabilidade
 
-**Notebook:** `Questao_4.ipynb`
+**Notebook:** `Questão_4.ipynb`
 
 Realização de quantização dos coeficientes com $b \in \{2, 4, 8, 16, 32\}$ bits.
 
@@ -90,7 +90,7 @@ Realização de quantização dos coeficientes com $b \in \{2, 4, 8, 16, 32\}$ b
 
 ### 🎙️ Questão 5 — Recuperação de Sinais de Áudio
 
-**Notebook:** `Questao_5.ipynb`
+**Notebook:** `Questão_5.ipynb`
 
 Remoção de interferências no sinal `handel.wav` contaminado:
 $$y(t) = x(t) + 0.05 \cos(200\pi t) + 0.075 \sin(4000\pi t) + n(t)$$
